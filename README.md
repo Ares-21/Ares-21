@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm passionate about technology and security.<br><br>- 🔭 I’m working as a penetration tester.<br>- 📚 I'm currently learning advanced PowerShell scripting and persuing CRTP course.<br>- ⚡ In my free time I create content on YouTube and explore new technologies.</p>
+<p align="left">I'm passionate about technology and security.<br><br>- 🔭 I’m working as a penetration tester.<br>- 📚 I'm currently learning advanced PowerShell scripting and persuing CRTP course.<br>- ⚡ In my free time I develop new tools .</p>
 
 ###
 
