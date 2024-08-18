@@ -1,8 +1,8 @@
-<h2 align="left">Heyy 👋! My name is Aakash and I like to create cybersecurity tools!!</h2>
+<h2 align="left">Heyy 👋! My name is Aakash</h2>
 
 ###
 
-<p align="left">I'm passionate about technology and security.<br><br>- 🔭 I’m working as a penetration tester.<br>- 📚 I'm currently learning advanced PowerShell scripting and persuing CRTP course.<br>- ⚡ In my free time I develop new tools .</p>
+<p align="left">I'm passionate about technology and security.<br><br>- 🔭 I’m working as a penetration tester.<br>- 📚 I'm currently learning advanced PowerShell scripting and persuing CRTP course.<br>- ⚡ In my free time I develop new cybersecurity tools .</p>
 
 ###
 
